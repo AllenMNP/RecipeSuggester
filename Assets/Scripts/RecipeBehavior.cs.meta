@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 162bea45b8fe1c74b9c73a1e41c070c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - quadRenderer: {fileID: 23603799117624670, guid: b45bb39d5fd590645aded80159b768ec,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
